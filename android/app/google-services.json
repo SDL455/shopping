@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936732436705",
+    "project_id": "foodpanda-73bc8",
+    "storage_bucket": "foodpanda-73bc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936732436705:android:07afeac1c8d6ce6c79efa0",
+        "android_client_info": {
+          "package_name": "com.example.shopping_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxCHmiWvbP98bpmnbJ-ps2e8WAty8wCAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
