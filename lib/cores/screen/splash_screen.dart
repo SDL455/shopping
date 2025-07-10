@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -37,7 +38,7 @@ class _SplashScreenState extends State<SplashScreen>
     // Navigate to login after 2 seconds
     Future.delayed(Duration(seconds: 2), () {
       if (mounted) {
-        Navigator.of(context).pushReplacementNamed('/login');
+        Get.offAllNamed('/login');
       }
     });
   }
